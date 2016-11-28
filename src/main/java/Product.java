@@ -7,7 +7,7 @@ public class Product {
 	public Product() {
 		this.name = "";
 		this.price = 0.0;
-		this.isAvail = false;
+		this.isAvail = fals;
 	}
 
 	public Product(String name, double price, boolean isAvail) {
