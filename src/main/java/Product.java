@@ -17,8 +17,16 @@ public class Product {
 		this.name = name;
 	}
 	
-	public void getName() {
+	public String getName() {
 		return this.name;	
+	}
+
+	public void setPrice(double price) {
+		this.name = name;
+	}
+	
+	public double getPrice() {
+		return this.price;	
 	}
 
 }
