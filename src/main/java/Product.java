@@ -8,4 +8,9 @@ public class Product {
 		this.price = 0.0;	
 	}
 
+	public Project(name, price) {
+		this.name = name;
+		this.price = price;
+	}
+
 }
