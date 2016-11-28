@@ -13,4 +13,12 @@ public class Product {
 		this.price = price;
 	}
 
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	public void getName() {
+		return this.name;	
+	}
+
 }
