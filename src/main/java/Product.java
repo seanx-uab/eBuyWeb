@@ -8,7 +8,7 @@ public class Product {
 		this.price = 0.0;	
 	}
 
-	public Project(name, price) {
+	public Product(name, price) {
 		this.name = name;
 		this.price = price;
 	}
